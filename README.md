@@ -1,6 +1,6 @@
 # Hi, I'm Garrick 👋
 
-**Data Science @ Boston University (Questrom)** · ML / AI / GenAI
+**Data Science @ Boston University ** · ML / AI / GenAI
 
 I build machine learning systems with a focus on LLM reliability, applied NLP, and data pipelines. Open to US-based Data Science and AI/ML roles.
 
